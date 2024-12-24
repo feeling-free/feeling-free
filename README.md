@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Admin Dashboard**
 
-- 🌱 I’m currently learning **Nextjs, Prisma**
+- 🌱 I’m currently learning **ASP.NET Web, Supabase**
 
 - 💬 Ask me about **my favorite tech stack and frameworks**
 
@@ -13,8 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://www.leetcode.com/jatin_sattappa_patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jatin_sattappa_patil" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/jatinp/8390" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jatinp/8390" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
